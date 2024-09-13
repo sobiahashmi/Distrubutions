@@ -1,0 +1,2 @@
+# Distrubutions
+Types of Distribution
